@@ -110,5 +110,5 @@ function findLongestWord(str) {
   console.log(findLongestWord("This is a sample string for testing"));          
   console.log(findLongestWord("One two ten"));                                  
   console.log(findLongestWord(""));                                            
-  console.log(findLongestWord("      "));                                       /
+  console.log(findLongestWord("      "));                                       
   

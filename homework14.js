@@ -11,11 +11,11 @@ function repeatingX(str) {
 }
 
 
-console.log(repeatingX("xTechxGlobalx"));  // false
-console.log(repeatingX("Hello Xx World")); // true
-console.log(repeatingX("x x"));            // false
-console.log(repeatingX(""));               // false
-console.log(repeatingX("xxxxx"));          // true
+console.log(repeatingX("xTechxGlobalx"));  
+console.log(repeatingX("Hello Xx World")); 
+console.log(repeatingX("x x"));            
+console.log(repeatingX(""));               
+console.log(repeatingX("xxxxx"));          
 
 
 //2
